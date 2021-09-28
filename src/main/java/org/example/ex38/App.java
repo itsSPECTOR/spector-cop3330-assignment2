@@ -2,6 +2,14 @@ package org.example.ex38;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
+/**
+ *
+ * UCF COP3330 Fall 2021 Assignment 38 Solution
+ * Copyright 2021 Reese Spector
+ *
+ */
+
 public class App {
 
     //filter function
