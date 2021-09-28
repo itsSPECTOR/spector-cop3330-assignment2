@@ -3,6 +3,14 @@ import java.util.Random;
 import java.util.Scanner;
 
 
+/**
+ *
+ * UCF COP3330 Fall 2021 Assignment 33 Solution
+ * Copyright 2021 Reese Spector
+ *
+ */
+
+
 public class App {
 
     static void resultGen(Integer randNum){
