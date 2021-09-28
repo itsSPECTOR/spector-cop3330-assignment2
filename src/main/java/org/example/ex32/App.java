@@ -2,6 +2,14 @@ package org.example.ex32;
 import java.util.Scanner;
 import java.util.Random;
 
+
+/**
+ *
+ * UCF COP3330 Fall 2021 Assignment 32 Solution
+ * Copyright 2021 Reese Spector
+ *
+ */
+
 public class App {
 
     //function to give hints
