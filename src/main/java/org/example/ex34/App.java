@@ -1,7 +1,13 @@
 package org.example.ex34;
-
-
 import java.util.Scanner;
+
+
+/**
+ *
+ * UCF COP3330 Fall 2021 Assignment 34 Solution
+ * Copyright 2021 Reese Spector
+ *
+ */
 
 public class App {
 
