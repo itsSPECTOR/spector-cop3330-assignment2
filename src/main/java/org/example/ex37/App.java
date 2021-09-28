@@ -3,6 +3,14 @@ import java.util.Random;
 import java.util.Scanner;
 import java.util.ArrayList;
 
+
+/**
+ *
+ * UCF COP3330 Fall 2021 Assignment 37 Solution
+ * Copyright 2021 Reese Spector
+ *
+ */
+
 public class App {
 
     static void printPW(Integer min, Integer chars, Integer nums){
